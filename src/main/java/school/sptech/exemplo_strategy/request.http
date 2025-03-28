@@ -1,0 +1,18 @@
+##"Row was updated or deleted by another transaction (or unsaved-value mapping was incorrect): [school.sptech.exemplo_strategy.entity.Frete#1]",
+#  "path": "/fretes"
+
+###
+POST http://localhost:8080/fretes
+Content-Type: application/json
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T194210.500.json
+
+
+###
+GET http://localhost:8080/fretes
