@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-03-28T21:45:14.985+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "The given id must not be null",
+  "path": "/fretes"
+}

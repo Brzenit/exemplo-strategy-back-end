@@ -1,0 +1,153 @@
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T184625.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T184515.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T184409.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T021402.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T021253.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T021146.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T021014.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T020342.500.json
+
+###
+
+POST http://localhost:8080/fretes
+Content-Type: application/json
+Content-Length: 69
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.4.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "tipo": "NORMAL",
+  "valorEncomenda": 100.00,
+  "pesoEmKg": 2.0
+}
+
+<> 2025-03-28T020232.500.json
+
+###
+
